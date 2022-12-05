@@ -19,3 +19,4 @@ To install this application, you will need to clone the repository from GitHub. 
 - Users will be prompted with a series of questions that will allow them to view and manage the departments, roles, and employees in their company.
 
 ## Demo
+[jesus-orduno-employee-tracker-demo.webm](https://user-images.githubusercontent.com/107074271/205563030-c86dc5ed-33e6-4da0-92c0-5bd50a9d98e2.webm)
