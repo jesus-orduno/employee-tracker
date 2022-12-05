@@ -7,9 +7,9 @@ const db = mysql2.createConnection(
     host: 'localhost',
     user: 'root',
     password: 'root',
-    database: 'employees_db'
+    database: 'employeesDB'
   },
-  console.log(`Connected to the employees_db database.`)
+  console.log(`Connected to the employeesDB database.`)
 )
 
 db.connect(err => {
